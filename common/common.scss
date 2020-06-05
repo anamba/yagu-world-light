@@ -6,6 +6,10 @@
   box-shadow: 0 1px $value rgba(black, 0.18);
 }
 
+.regular a {
+  font-weight: bold;
+}
+
 .background-container {
   position: fixed;
   top: 0;
